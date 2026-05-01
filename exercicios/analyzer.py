@@ -184,5 +184,5 @@ for i in range(3):
         ax6.text(j, i, f"{correlation[i, j]:.2f}",
                  ha='center', va='center', color='black', fontsize=9, fontweight='bold')
 
-plt.savefig("/home/whitedev/Documents/main/pratica/exercicios/analysis.png", dpi=150, bbox_inches='tight', facecolor=bg)
+plt.savefig("/path/analysis.png", dpi=150, bbox_inches='tight', facecolor=bg)
 print("\nAnalysis completed and saved as 'analysis.png'.")
