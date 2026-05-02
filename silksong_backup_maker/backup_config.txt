@@ -1,0 +1,2 @@
+/home/whitedev/.config/unity3d/Team Cherry
+/home/whitedev/Documents
